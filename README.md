@@ -1,4 +1,4 @@
-# Blood Donation Frontend Project 
+# 🩸 Blood Donation 🩸 Frontend Project 
 
 This project is developed for a Frontend Competition which is organized in GGSIPU.
 
