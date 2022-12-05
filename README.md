@@ -1,5 +1,5 @@
-# Webestrowars 2022 Competition
+# Blood Donation Frontend Project 
 
 Theme: Blood Donation
 Technology Used: Tailwind CSS + Custom CSS
-Link: https://pushpenderindian.github.io/Webestrowars/
+Link: https://priyadarshiindia.github.io/BloodDonation/
